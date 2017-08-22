@@ -85,7 +85,7 @@ Introduction
 
     hist(steps_per_day$steps, breaks = 20, main = "Total Number of Steps Taken per Day", xlab = 'Total Number of Steps')
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](figure/unnamed-chunk-3-1.png)
 
 3.1. Calculate the mean number of steps taken per day.
 
